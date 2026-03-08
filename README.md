@@ -368,7 +368,8 @@ Keep responses concise and emotionally expressive.
 | 08/03/26 23:20 WIB | 08/03/26 23:35 WIB | app testing | 15 mins |
 | 08/03/26 23:35 WIB | 08/03/26 23:40 WIB | feature improvement add command recommendation feature | 5 mins |
 | 08/03/26 23:40 WIB | 08/03/26 23:59 WIB | git push | 19 mins |
-| 09/03/26 01:30 WIB | 09/03/26 01:50 WIB | deployment on render | 20 mins |
+| 09/03/26 00:30 WIB | 09/03/26 00:50 WIB | deployment on render | 20 mins |
+| 09/03/26 00:50 WIB | 09/03/26 01:20 WIB | deployment change to vercel both frontend and backend | 30 mins |
 
 ---
 
