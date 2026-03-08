@@ -189,11 +189,11 @@ studio-assistant
 
 Only one variable is required.
 
-`AI_API_KEY=`
+`OPENAI_API_KEY`
 
 `.env.example`
 
-`AI_API_KEY=`
+`OPENAI_API_KEY`
 
 ---
 
