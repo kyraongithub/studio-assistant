@@ -85,8 +85,7 @@ Benefits:
 
 **Deployment**
 
-- Vercel (frontend)
-- Railway / Render / Fly.io (backend)
+- Vercel
 
 ---
 
@@ -229,7 +228,7 @@ Example:
 
 ```ts
 const serverClient = axios.create({
-  baseURL: process.env.BACKEND_URL
+  baseURL: process.env.NEXT_PUBLIC_BACKEND_URL
 });
 ```
 
@@ -363,11 +362,12 @@ Keep responses concise and emotionally expressive.
 
 | Start | End   | Task | Duration |
 |-------|-------|------|----------|
-| 23:05 | 23:13 | docs read and structure md for prompt | 8 mins |
-| 23:13 | 23:20 | initiate app build | 7 mins |
-| 23:20 | 23:35 | app testing | 15 mins |
-| 23:35 | 23:40 | feature improvement add command recommendation feature | 5 mins |
-| 23:40 | 23:59 | git push | 19 mins |
+| 08/03/26 23:05 WIB | 08/03/26 23:13 WIB | docs read and structure md for prompt | 8 mins |
+| 08/03/26 23:13 WIB | 08/03/26 23:20 WIB | initiate app build | 7 mins |
+| 08/03/26 23:20 WIB | 08/03/26 23:35 WIB | app testing | 15 mins |
+| 08/03/26 23:35 WIB | 08/03/26 23:40 WIB | feature improvement add command recommendation feature | 5 mins |
+| 08/03/26 23:40 WIB | 08/03/26 23:59 WIB | git push | 19 mins |
+| 09/03/26 01:30 WIB | 09/03/26 01:50 WIB | deployment on render | 20 mins |
 
 ---
 
