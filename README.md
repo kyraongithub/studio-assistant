@@ -1,6 +1,7 @@
 # 🎮 Studio Assistant — AI Internal Chat Tool
 ## LIVE ON: https://studio-asssistant.kyraspace.com
 
+This project is built for Option A from the technical test requirements.
 AI-powered internal assistant designed for game studio workflows.
 
 This project is a **full-stack AI application** with clean architecture, strong separation of concerns, and production-style patterns.
@@ -91,6 +92,10 @@ Benefits:
 ---
 
 ## 🏎 Quick Start
+
+git clone https://github.com/kyraongithub/studio-assistant.git
+cd studio-assistant
+cp .env.example .env
 
 To easily install dependencies and run both apps simultaneously, we've added root scripts:
 
@@ -370,6 +375,7 @@ Keep responses concise and emotionally expressive.
 | 08/03/26 23:40 WIB | 08/03/26 23:59 WIB | git push | 19 mins |
 | 09/03/26 00:30 WIB | 09/03/26 00:50 WIB | deployment on render | 20 mins |
 | 09/03/26 00:50 WIB | 09/03/26 01:20 WIB | deployment change to vercel both frontend and backend | 30 mins |
+| - | - | Total Hours Worked | ~1 Hour 44 Mins |
 
 ---
 
