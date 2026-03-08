@@ -90,6 +90,22 @@ Benefits:
 
 ---
 
+## 🏎 Quick Start
+
+To easily install dependencies and run both apps simultaneously, we've added root scripts:
+
+1. **Install all dependencies** across workspaces:
+   ```bash
+   npm run install:all
+   ```
+
+2. **Run both frontend and backend** simultaneously in development mode:
+   ```bash
+   npm run dev:all
+   ```
+
+---
+
 ## 📂 Robust Project Structure
 
 Monorepo style architecture.

@@ -5,5 +5,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "install:all": "npm install",
+    "dev:all": "npx concurrently \"npm run dev -w @studio/web\" \"npm run dev -w @studio/server\""
+  }
 }
