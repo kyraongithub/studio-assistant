@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "install:all": "npm install",
-    "dev:all": "npx concurrently \"npm run dev -w @studio/web\" \"npm run dev -w @studio/server\""
+    "dev:all": "npx concurrently \"npm run dev -w @studio/web\" \"npm run dev -w @studio/server\"",
+    "build:all": "npx concurrently \"npm run build -w @studio/web\" \"npm run build -w @studio/server\""
   }
 }
