@@ -1,4 +1,5 @@
 # 🎮 Studio Assistant — AI Internal Chat Tool
+# 🎮 LIVE ON: https://studio-asssistant.kyraspace.com
 
 AI-powered internal assistant designed for game studio workflows.
 
